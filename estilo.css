@@ -1,0 +1,14 @@
+/*	Especifidad: 001*/
+body{
+		font-family: Tahoma, sans-serif;
+		color: #818181;
+		background-color:#fff;
+}
+/*	Especifidad: 001*/
+h1{
+	color: #fff;
+	background-color:#FF5733;
+	padding: 2em;
+	text-transform: uppercase;
+	text-align: center;
+}
